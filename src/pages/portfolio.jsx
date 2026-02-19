@@ -201,12 +201,28 @@ const Portfolio = () => {
                     <p
                       className={`text-sm ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}
                     >
-                      React, Tailwind CSS, JavaScript
+                      React, JavaScript, Next.js, Vue.js,Tailwind CSS
                     </p>
                   </div>
                   <div
                     className={`p-4 rounded-lg transition-colors ${isDarkMode ? "bg-gray-700 hover:bg-gray-600" : "bg-gray-100 hover:bg-gray-200"}`}
                   >
+                      <h4
+                      className={`font-semibold mb-2 ${isDarkMode ? "text-white" : "text-gray-800"}`}
+                    >
+                      Backend
+                    </h4>
+                   
+                    <p
+                      className={`text-sm ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}
+                    >
+                    Django, Laravel
+                    </p>
+                  </div>
+                  <div
+                    className={`p-4 rounded-lg transition-colors ${isDarkMode ? "bg-gray-700 hover:bg-gray-600" : "bg-gray-100 hover:bg-gray-200"}`}
+                  >
+                    
                     <h4
                       className={`font-semibold mb-2 ${isDarkMode ? "text-white" : "text-gray-800"}`}
                     >
