@@ -350,7 +350,7 @@ const Portfolio = () => {
                 </div>
               </div>
 
-              {/* Weather app */}
+              {/* Weather app
               <div
                 className={`rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow ${isDarkMode ? "bg-gray-800" : "bg-white"}`}
               >
@@ -399,8 +399,8 @@ const Portfolio = () => {
                       Live Demo
                     </a>
                   </div>
-                </div>
-              </div>
+                </div> */}
+              {/* </div> */}
 
               {/* NBA Data Analytics */}
               <div
